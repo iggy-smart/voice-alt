@@ -219,7 +219,7 @@ You may notice that some sounds cause the larynx to go lower. Work on fixing the
 ## Combining pitch/size/weight
 ## FVF
 ## OPC
-Stich voice
+[Stich voice breakdown by NY Vocal Coaching](https://www.youtube.com/watch?v=SuVe9dToYuQ)
 
 
 # Voice components

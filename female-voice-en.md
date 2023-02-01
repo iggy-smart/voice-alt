@@ -225,6 +225,7 @@ You may notice that some sounds cause the larynx to go lower. Work on fixing the
 # Voice components
 ## Weight
 aka vocal fold weight
+aka EGG, contact quotient, open/closed quotient in science literature
 
 Weight is important fundamental of voice feminization
 

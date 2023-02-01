@@ -293,7 +293,7 @@ F2 - oral space (aka R2)
 ## FVF
 aka false vocal folds, vestibular fold, ventricular fold
 False vocal folds (false cords) close air passage when you swallow/eat.
-FVF are used in singing to produce vocal effects such as growls, rasps or screams (rock/metal/punk).
+FVF are used in singing to produce vocal effects such as growls, rasps or screams ([metal singer distortion](https://youtu.be/o6QoeBmq9zY?t=498)).
 
 [TVL doc](https://docs.google.com/document/d/1sH8EyvMcGkt_4pOBY4EzfW2MLFfrfL3LnZNsfV-0n3c)
 [TVL video](https://www.youtube.com/watch?v=xdsaPJdU24s)

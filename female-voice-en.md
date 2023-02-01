@@ -64,10 +64,44 @@ TODO compare to other skills by complexity
 - or you want be a voice troll
 - you want answer on help desk calls with fem voice 😃 (who knows)
 
-## scari mind maps
+## scary mind maps
+### learning path
+```mermaid
+graph TD
+    A((Start))
+    A --> Pitch --> B
+    A --> Weight --> B
+    A --> Size --> B
+
+    subgraph Pitch
+        Rise_Pitch
+    end
+
+    subgraph Size
+        Rise_Larynx --> Scale_Vowels --> OPC
+    end
+
+    subgraph Weight
+        Less_Weight
+    end
+
+    C[Improve]
+
+    B --> C
+
+    subgraph C
+        Articulation
+        Mimic
+        Twang
+        Laugh
+    end
+    
+```
+
+### mind maps/etc
 https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
 
-TODO: discord mindmap is more detailed, mermaid js is supported here
+TODO: discord mindmap is more detailed
 
 # Plan
 ## How to teach yourself

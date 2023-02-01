@@ -7,11 +7,11 @@ This guide helps AMABs have female voice after puberty period. Only exercises. E
 [SMART criteria - Wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
 
 ## Specific
-What is result? Why it's important? What/where. Resources and limitations
+What is result? Why it's important? (+W) What/where. Resources and limitations
 
 ## Relevant
 Why do you need it?
-Checklist is it good time for it: resources, time/__requirements__. Requirements include some previous exercies.
+Checklist is it good time for it: resources, time/__requirements__. Requirements can include some previous exercies.
 
 ## Achievable
 How to achieve. Other's experience. Do you have enough of resources? (define amount of resources. time/experience/etc)
@@ -190,7 +190,7 @@ Stich voice
 
 # Voice components
 ## Weight
-aka Vocal fold weight
+aka vocal fold weight
 
 Weight is important fundamental of voice feminization
 
@@ -231,13 +231,13 @@ Aka size of vocal tract/timbre/brightness.
 
 IRL example: sound when you fill bottle of water.
 
-1) OP + Larynx (R1 or F1 [formant](#Formant)
+1) OP + Larynx (R1 or F1 [formant](#Formant) )
 
 2) Mouth space (R2 or F2)
 
 ### Larynx
 ### OPC
-aka oropharyngeal constriction
+aka oropharyngeal constriction, pharynx constriction
 
 **The Mallampati score** is one assessment to describe the relative size of the base of the tongue compared to the oropharyngeal opening in hopes of predicting the difficult airway
 Stitch
@@ -249,13 +249,22 @@ Smile makes sounds bright but people hear you are smiling. It won't be applied t
 
 
 ## Formant
+TODO
+
+F0 - pitch,
+F1 - larynx/pharynx (aka R1)
+F2 - oral space (aka R2)
+
 
 ## FVF
+aka false vocal folds, vestibular fold, ventricular fold
 False vocal folds (false cords) close air passage when you swallow/eat.
+FVF are used in singing to produce vocal effects such as growls, rasps or screams (rock/metal/punk).
 
-https://docs.google.com/document/d/1sH8EyvMcGkt_4pOBY4EzfW2MLFfrfL3LnZNsfV-0n3c
+[TVL doc](https://docs.google.com/document/d/1sH8EyvMcGkt_4pOBY4EzfW2MLFfrfL3LnZNsfV-0n3c)
+[TVL video](https://www.youtube.com/watch?v=xdsaPJdU24s)
 
-https://www.youtube.com/watch?v=xdsaPJdU24s
+
 
 ## Vocal range
 https://www.youtube.com/watch?v=9IejHKpfHso
@@ -282,14 +291,15 @@ OPC vowels/words:
 
 ## Cough
 ## Laugh
+## Nasality
 
 
 # Analysis
 ## Apps
 ### Recorders
-Echo (push to record)
+Echo (push to record) [android](https://play.google.com/store/apps/details?id=uk.co.projectneon.echo)
 
-[android](https://play.google.com/store/apps/details?id=uk.co.projectneon.echo)
+Voice Back: [iOS](https://apps.apple.com/us/app/voice-back-sing-speak/id1071730240)
 
 ### Pitch tracker
 #### Vocal Pitch Monitor 
@@ -311,6 +321,8 @@ see L's guide
 
 ### Formant/spectrum tracker
 #### InFormant
+https://in-formant.app/
+
 #### Friture
 Mel scale
 
@@ -392,6 +404,7 @@ Time/timezone
 reddit: L's, Adi, 
 
 web: Sumians wiki
+[TVL Glossary](https://docs.google.com/document/d/1FPDd2YIkYFVjghNFifAy-PUl0IuyKeB4I8xKJWIXdjc)
 
 youtube: TVL
 

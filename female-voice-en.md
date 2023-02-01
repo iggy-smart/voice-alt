@@ -11,13 +11,13 @@ What is result? Why it's important? What/where. Resources and limitations
 
 ## Relevant
 Why do you need it?
-Checklist is it good time for it: resources, time/__requirements__
+Checklist is it good time for it: resources, time/__requirements__. Requirements include some previous exercies.
 
 ## Achievable
 How to achieve. Other's experience. Do you have enough of resources? (define amount of resources. time/experience/etc)
 
 ## Measurable
-How to get you done it?
+How to get you done it? Defenition of done.
 
 ## Time-bound
 No deadlines. Let's try put here time for one exercise or complexity in stars. Do until you pass M.
@@ -33,14 +33,14 @@ Links/references to examples/guides
 
 # Overview
 ## These exercise are against
-difference in vocal tract size changes during puberty period
-articulation differences
-behavior of making loud sounds
-pitch difference
+- difference in vocal tract size changes during puberty period
+- articulation differences
+- behavior of making loud sounds
+- pitch difference
 TODO links
 
 ## So our goal (SMART)
-S: As a males we are going to have female voice. It's important mostly for trans people (MtF). It can be done in isolation of people but internet needed to hear examples and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises, throat/mouth/tongue/etc... Time for thinking about exercises.
+S: As a males by birth we are going to have female voice. It's important mostly for trans people (MtF). It can be done in isolation of people but internet needed to hear examples and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises, throat/mouth/tongue/etc... Time for thinking about exercises.
 
 M: 
 1) People: goal is completed when we passing as female by voice.
@@ -64,10 +64,10 @@ TODO compare to other skills by complexity
 - or you want be a voice troll
 - you want answer on help desk calls with fem voice 😃 (who knows)
 
-## scarifying mind maps
+## scari mind maps
 https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
 
-TODO: discord mindmap
+TODO: discord mindmap is more detailed, mermaid js is supported here
 
 # Plan
 ## How to teach yourself
@@ -113,11 +113,11 @@ T: Don't focus too much. Once is enough.
 
 ## Exploring pitch
 S: 
-1) Answer questions: What is pitch? What is average female range
+1) Answer questions: What is pitch? What is average female range?
 2) Our goal is to explore your vocal range
 3) and speak in higher pitch
 
-+W: Average female voice is higher than masculine voice.
++W: Average female voice has higher pitch than masculine voice.
 
 -D: Pitch is less significant than other components like weight and resonance. There is no strict requirement for extending your higher vocal range limitation.
 
@@ -125,11 +125,15 @@ A:
 1) Read about [Pitch](#Pitch)
 2) Download [Pitch tracker](#Pitch tracker)
 3) Do slides LINK
-4) Explore you vocal range LINK
+4) Optional. Explore you vocal range LINK
 5) TVL: pitch
 6) Speak higher than F3, try don't cross F3 boundary
 
-M: You can fluently speak don't crossing F3. You may would like lower voice. You can define lower boundary than F3.
+M: You can fluently speak higher than F3 don't crossing F3. 
+
+It will be weird - it's ok. Your voice can be cartoonish and hollow.
+
+But you may would like lower voice. So you can define lower boundary than F3.
 
 ## Exploring pitch and weight
 S: [Vocal folds weight](#Weight). We'll develop control skill over weight.
@@ -146,6 +150,9 @@ listen TVL video
 
 ## Exploring size: larynx height
 A: 
+Exporing:
+1) Touch Adam's apple and swallow. Larynx went up.
+2) Try yawn. Larynx went down.
 
 exercises
 1) big dog/small dog
@@ -159,16 +166,20 @@ M:
 
 -D: don't push your larynx with our fingers/etc. Don't apply to much strength.
 
-## Vowels with small size
+## Vowels in small size
 
 Scaling (down/up ?) vowels
 
 Starting position
 1) larynx up
-2) kee (L's 2.4)
-3) speak vowel/simple word with this vowel - and control it shouldn't be distorted
+2) 'kee' (L's 2.4) or 'heel' sounds are good triggers to push larynx up. 
+3) speak vowel/simple word with this vowel - and control vowel/word shouldn't be distorted
 4) touch & feel Adam's apple - won't go down
 5) reset to 1
+
+When you feel all sounds are good. Try to speak sentances.
+
+You may notice that some sounds cause the larynx to go lower. Work on fixing them.
 
 ## Adding pitch to resonance
 ## Combining pitch/size/weight

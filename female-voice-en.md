@@ -74,11 +74,11 @@ graph TD
     A --> Size --> B
 
     subgraph Pitch
-        Rise_Pitch
+        Raise_Pitch
     end
 
     subgraph Size
-        Rise_Larynx --> Scale_Vowels --> OPC
+        Raise_Larynx --> Scale_Vowels --> OPC
     end
 
     subgraph Weight
@@ -428,6 +428,8 @@ Price/quality/comfortable
 Find examples of lessons
 
 Time/timezone
+
+Language
 
 ## Where are they?
 # Communities

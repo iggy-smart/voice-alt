@@ -1,5 +1,23 @@
 # Intro
-This guide helps AMABs have female voice after puberty period. Only exercises. Exercises based on SMART methodology. Almost all chapters are covered by SMART criteria.
+This guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 
+
+## Our goals
+We gather all best in one place. Trying to give one step-by-step guide with voice examples 
+with definiton of done for every step.
+
+## Key guide components
+For every aspect:
+- theory
+- ear training
+- exercises
+
+Main chapters:
+- Exercise plan
+- Voice components
+- Exercise list
+- Communities
+- Teachers
+
 
 [I don't wanna read intro, let's start](#Plan)
 
@@ -26,14 +44,14 @@ No deadlines. Let's try put here time for one exercise or complexity in stars. D
 What you should avoid.
 
 ## +Why
-Why we are setting this goal
+Why we are setting this goal (R?)
 
 ## +Links
 Links/references to examples/guides
 
 # Overview
 ## These exercise are against
-- difference in vocal tract size changes during puberty period
+- difference in vocal tract size changes during male puberty period
 - articulation differences
 - behavior of making loud sounds
 - pitch difference
@@ -52,9 +70,14 @@ Where you can find people who are in process or finished: discord/reddit (TODO).
 
 R: You can do exercise time to time. Think about motivation and are you really need it? 
 
-T: It can take too much time (year?). It depends on you and your vocal background. Nobody knows how much time you need. You can work on your voice every day twice for 15 mins or once per week 30 mins. You can be [vocal underdoer](#Vocal underdoer) < singer < vocal actor. 
+T: It can take too much time. 1 year? Or one month for decent result. 
+It depends on you: your vocal background, your vocal tract shape, your ability to control muscles and your time.
+Nobody knows how much time you need. You can work on your voice every day twice for 15 mins or twice per week 30 mins. 
+You can be [vocal underdoer](#Vocal underdoer) < singer/vocal actor.
+You can have already small enough vocal tract. So you need less effort for voice feminization.
+If you are busy, 15 mins/day is really good enough for exercises.
 
-TODO compare to other skills by complexity
+TODO compare to other skills by complexity/time
 
 -D: we are avoid strain/pain/etc TODO SOVTEs health link
 
@@ -78,7 +101,7 @@ graph TD
     end
 
     subgraph Size
-        Raise_Larynx --> Scale_Vowels --> OPC
+        Raise_Larynx --> Scaledown_Vowels --> Tongue_Position --> OPC
     end
 
     subgraph Weight
@@ -105,6 +128,13 @@ TODO: discord mindmap is more detailed
 
 # Plan
 ## How to teach yourself
+Key aspects:
+- regular basis/time
+- comfortable place for exercises
+- don't hurt yourself/health
+- theory -> ear training -> exercises
+- record your progress
+
 Have time and plan what you will do.
 
 Have [place](#Place for training) for voiced exercises.
@@ -311,6 +341,8 @@ FVF are used in singing to produce vocal effects such as growls, rasps or scream
 ## Vocal range
 https://www.youtube.com/watch?v=9IejHKpfHso
 
+## Loudness
+
 # Voice exercises
 ## Weight/pitch
 ### Slides
@@ -449,14 +481,17 @@ Language
 ## YouTube e-girl trolls
 
 # Guides
-reddit: L's, Adi, 
+[Adi's old](https://docs.google.com/document/d/1MOd5CJQUGmUD5e1p7_CLxWLU-aFiUTmKvL0SoT-LhEk)
+[Sumi's wiki](https://wiki.sumianvoice.com/)
 
-web: Sumians wiki
+[TVL YT: not ordered](https://www.youtube.com/@TransVoiceLessons)
 [TVL Glossary](https://docs.google.com/document/d/1FPDd2YIkYFVjghNFifAy-PUl0IuyKeB4I8xKJWIXdjc)
+[Outdated L's](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
 
-youtube: TVL
 
 # Thanks
-TVL
-Sumi
+TVL/Zheanna 
 Adi
+Savvy
+Sumi
+Zoey

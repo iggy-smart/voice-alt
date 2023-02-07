@@ -226,18 +226,24 @@ You may notice that some sounds cause the larynx to go lower. Work on fixing the
 ## Weight
 aka vocal fold weight
 aka EGG, contact quotient, open/closed quotient in science literature
+aka vocal fold mass
 
-Weight is important fundamental of voice feminization
+Weight is important fundamental of voice feminization. Developing weight control is important to build female voice.
 
-Developing weight control is important to build female voice.
-
-Male voice have more weight than female. 
+Male voice have more weight than female. (Male vocal folds are thucker than female (because of testosterone))
 
 More weight - more audible buzziness.
-
 Less weight - more breathy.
 
 +L: LINK: adi/TVL/savvvy/Selene
+(Olivia Flanigan) https://www.youtube.com/watch?v=vwv0JlCIXHE
+
+## Vocal twang
+L's (3.8 https://www.reddit.com/r/transvoice/comments/d3cq5l/ls_voice_training_guide_level_3_for_mtf/ )
+https://www.youtube.com/watch?v=1BLVrYKmwvc L's 
+https://www.youtube.com/watch?v=xAvCrxaLRvI (twl) L's
+https://www.youtube.com/watch?v=tD0MT50Ufos
+https://www.youtube.com/watch?v=-e5ULS6EURU
 
 ## Pitch
 Men: 85-180 Hz (average)
@@ -281,7 +287,8 @@ Stitch
 ### Smiling 
 Smile makes sounds bright but people hear you are smiling. It won't be applied to all situations.
 
-
+## Soft palate
+nasality
 
 ## Formant
 TODO
@@ -375,9 +382,13 @@ online brown noise/noise generators
 ## Ears
 ### Your ears
 By default you can't hear yourself as it do people near to you. WHY TODO
+#### palmuting - hear yourself (hands)
+But you can do it with your hands.
+#### 
+or have headset with transparent hearing or https://www.reddit.com/r/transvoice/comments/10rsshp/voice_training_in_real_time_with_walker/
+
 
 #### Ear training
-#### palmuting - hear yourself (hands)
 #### recording
 
 Do records with same sounds/sentences to measure your progress or hear yourself

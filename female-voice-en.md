@@ -1,5 +1,5 @@
 # Intro
-This guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 
+This self-teaching guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 
 
 ## Our goals
 We gather all best in one place. Trying to give one step-by-step guide with voice examples 

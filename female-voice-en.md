@@ -310,6 +310,8 @@ IRL example: sound when you fill bottle of water.
 ### OPC
 aka oropharyngeal constriction, pharynx constriction
 
+[ear training by Savvy](https://soundcloud.com/savvy-sav-446247814/opc-ear-training/s-DkeFkTQe88T)
+
 **The Mallampati score** is one assessment to describe the relative size of the base of the tongue compared to the oropharyngeal opening in hopes of predicting the difficult airway
 Stitch
 

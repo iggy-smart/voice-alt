@@ -58,7 +58,7 @@ Links/references to examples/guides
 TODO links
 
 ## So our goal (SMART)
-S: As a males by birth we are going to have female voice. It's important mostly for trans people (MtF). It can be done in isolation of people but internet needed to hear examples and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises, throat/mouth/tongue/etc... Time for thinking about exercises.
+S: As a males by birth we are going to learn female voice. It can be done in isolation of people but internet needed to hear examples/materials and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises (throat/mouth/tongue/etc). Time for thinking about exercises. Exercies don't change you default voice. But you can forget how to speak in it if you don't use voice. Exercies have good impact for [singing] (https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting. (There are common skills).
 
 M: 
 1) People: goal is completed when we passing as female by voice.
@@ -78,13 +78,15 @@ You can have already small enough vocal tract. So you need less effort for voice
 If you are busy, 15 mins/day is really good enough for exercises.
 
 TODO compare to other skills by complexity/time
+Car driving?
 
 -D: we are avoid strain/pain/etc TODO SOVTEs health link
 
 +W: I don't know why do you have this goal:
 - you are trans MtF and this skill is critical for you
+- you are FtM on HRT and you need learn female voice
 - you are going to be voice actor
-- or you want be a voice troll
+- you want be a voice troll
 - you want answer on help desk calls with fem voice 😃 (who knows)
 
 ## scary mind maps
@@ -109,6 +111,7 @@ graph TD
     end
 
     C[Improve]
+    B[FemVoice]
 
     B --> C
 
@@ -117,6 +120,7 @@ graph TD
         Mimic
         Twang
         Laugh
+	WorkOnMistakes
     end
     
 ```
@@ -251,12 +255,23 @@ You may notice that some sounds cause the larynx to go lower. Work on fixing the
 ## OPC
 [Stich voice breakdown by NY Vocal Coaching](https://www.youtube.com/watch?v=SuVe9dToYuQ)
 
+## Improvements
+Improvements and common mistakes
+
+### Bad lips habbits
+
+[Quick Voice Tips: Avoid Bad Lip Habits! by TVL](https://www.youtube.com/watch?v=gviIEbgvIbk)
+
+
+
+-----------------------------------------
 
 # Voice components
 ## Weight
 aka vocal fold weight
 aka EGG, contact quotient, open/closed quotient in science literature
 aka vocal fold mass
+aka thickness/thinnes of vocal folds
 
 Weight is important fundamental of voice feminization. Developing weight control is important to build female voice.
 
@@ -345,6 +360,8 @@ https://www.youtube.com/watch?v=9IejHKpfHso
 
 ## Loudness
 
+-----------
+
 # Voice exercises
 ## Weight/pitch
 ### Slides
@@ -364,6 +381,14 @@ OPC vowels/words:
 - hawed
 - hood
 - who'd
+- 
+### Bright S-sound
+
+Mimic: [Clyp by Adi] https://clyp.it/t3lhcmwf
+
+tip: try a little bit smile: so corners of the lips
+
+BTW: avoid [bad lip habbits](#Bad lips habbits)
 
 ## Cough
 ## Laugh
@@ -416,8 +441,14 @@ online brown noise/noise generators
 ## Ears
 ### Your ears
 By default you can't hear yourself as it do people near to you. WHY TODO
+
 #### palmuting - hear yourself (hands)
 But you can do it with your hands.
+
+[by TVL](https://www.youtube.com/watch?v=hniY6-QOWKg)
+[by Singgeek](https://www.youtube.com/watch?v=-e5ULS6EURU&t=298s)
+
+
 #### 
 or have headset with transparent hearing or https://www.reddit.com/r/transvoice/comments/10rsshp/voice_training_in_real_time_with_walker/
 
@@ -477,6 +508,44 @@ Time/timezone
 Language
 
 ## Where are they?
+
+### TransVoiceLessons: Zheanna, Clover, Vivienne
+- [web](https://www.transvoicelessons.com/)
+- [YT](https://www.youtube.com/c/transvoicelessons)
+- [Petreon](https://www.patreon.com/transvoicelessons/)
+- Discord is paywalled. Events.
+
+### Trans Voice Coach: Adi
+- [web](https://www.transvoice.coach/)
+- [Discord](https://discord.gg/S7pgQgean9) archive of prev lessons/workshops recordings
+
+### Vox Nova: Selene
+- [web](https://voxnovastudio.com/)
+- [Discord](https://discord.gg/WfKk3EMRk5) workshops/events. Really good introductinal events.
+- Singing
+
+### Scientifically Augmented Voice: Savvy
+- [Discord](https://discord.gg/dbwrQMV) - recordings of public lessons and events
+- beatboxing 
+
+### Scinguistics
+- [web](https://cramdvoicelessons.blog/)
+- [Discord](https://discord.gg/vFkYUdTPS4) - public events
+
+### Sumian Voice: Sumi
+- [web](https://sumianvoice.com/)
+- [Discord](https://discord.gg/ahc5hb9zSk) - public lessons recordings
+- [wiki](https://wiki.sumianvoice.com/)
+
+### Seattle Voice Lab
+- [web](https://www.seattlevoicelab.com/)
+- [Discord](https://www.seattlevoicelab.com/discord/)
+
+### Undead Voice Lab: Nicole Gress
+- [web](https://www.undeadvoice.com/about)
+- [YT](https://www.youtube.com/@undeadvoicelab)
+- [IG](https://www.instagram.com/undead.voice/)
+
 # Communities
 # Voice examples
 ## Banks

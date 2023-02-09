@@ -55,7 +55,9 @@ Links/references to examples/guides
 - articulation differences
 - behavior of making loud sounds
 - pitch difference
+
 TODO links
+TODO make quick overview (https://christie-block-lzjg.squarespace.com/transfeminine-speakers)
 
 ## So our goal (SMART)
 S: As a males by birth we are going to learn female voice. It can be done in isolation of people but internet needed to hear examples/materials and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises (throat/mouth/tongue/etc). Time for thinking about exercises. Exercies don't change you default voice. But you can forget how to speak in it if you don't use voice. Exercies have good impact for [singing] (https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting. (There are common skills).
@@ -381,9 +383,9 @@ OPC vowels/words:
 - hawed
 - hood
 - who'd
-- 
-### Bright S-sound
 
+
+### Bright S-sound
 Mimic: [Clyp by Adi] https://clyp.it/t3lhcmwf
 
 tip: try a little bit smile: so corners of the lips
@@ -391,7 +393,19 @@ tip: try a little bit smile: so corners of the lips
 BTW: avoid [bad lip habbits](#Bad lips habbits)
 
 ## Cough
+[by TVL](https://www.youtube.com/watch?v=IP-mRByleSc)
+
 ## Laugh
+It is a good time to rebuild laugh habbit and select laugh you like.
+- [wikihow](https://www.wikihow.com/Change-Your-Laugh)
+- [by speechvoicelab](https://www.speechvoicelab.com/blog/2018/5/30/laughing-in-a-more-feminine-or-masculine-way)
+- [by Zoey](https://www.youtube.com/watch?v=l1xCKTQOH5k)
+
+## Throat clear
+
+## Sneeze
+
+
 ## Nasality
 
 

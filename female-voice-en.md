@@ -551,6 +551,10 @@ Language
 - [Discord](https://discord.gg/ahc5hb9zSk) - public lessons recordings
 - [wiki](https://wiki.sumianvoice.com/)
 
+### Fluid Voice Studio: Dusty
+- [web](https://www.fluidvoice.studio/)
+- [Discord](https://discord.com/invite/6J99rRAvvp)
+
 ### Seattle Voice Lab
 - [web](https://www.seattlevoicelab.com/)
 - [Discord](https://www.seattlevoicelab.com/discord/)

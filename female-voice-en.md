@@ -362,6 +362,13 @@ https://www.youtube.com/watch?v=9IejHKpfHso
 
 ## Loudness
 
+## Breathiness
+Your sound is too breathy. What caouses breathiness:
+1. Vocal folds are too open. Try to start from creak (constricted)
+2. You pushing too much air through vocal folds
+3. Before making voiced sounds your vocal folds are too open.
+
+
 -----------
 
 # Voice exercises

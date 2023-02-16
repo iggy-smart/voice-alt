@@ -368,6 +368,7 @@ Your sound is too breathy. What caouses breathiness:
 2. You pushing too much air through vocal folds
 3. Before making voiced sounds your vocal folds are too open.
 
+Breathiness in singing: [1](https://www.youtube.com/watch?v=J4vgDegu9ww) [2](https://www.youtube.com/watch?v=ojHV7u9eLSg)
 
 -----------
 

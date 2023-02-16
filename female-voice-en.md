@@ -141,7 +141,7 @@ Key aspects:
 - regular basis/time
 - comfortable place for exercises
 - don't hurt yourself/health
-- theory -> ear training -> exercises
+- theory -> ear training -> exercises -> applying to voice
 - record your progress
 
 Have time and plan what you will do.

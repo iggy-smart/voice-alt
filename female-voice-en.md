@@ -114,7 +114,10 @@ graph TD
 
     C[Improve]
     B[FemVoice]
-
+    
+    Breathiness_Balance --> B
+    Balance[Balance</br>Experiments] -.-> B
+    
     B --> C
 
     subgraph C

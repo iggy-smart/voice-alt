@@ -379,6 +379,10 @@ Breathiness in singing: [1](https://www.youtube.com/watch?v=J4vgDegu9ww) [2](htt
 ## Weight/pitch
 ### Slides
 ### Speak in high pitch
+### Pitch matching
+
+[online tone generator](https://szynalski.com/tone#C3,v0.75)
+[online piano](https://www.onlinepianist.com/virtual-piano)
 
 ## Resonance
 ### Siren Whisper

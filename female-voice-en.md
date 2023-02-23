@@ -496,13 +496,11 @@ There are set of long phrases (reddit) and short (TVL)
 Short are good for your recordings. Later you can compare your progress.
 
 ## Voice examples
-Youtube videos
 
-teacher clyps
+### Voice banks
+ - [By Adi: fem voices exploration - YouTube](https://www.youtube.com/playlist?list=PL054AsyPIr1a027-oUYLJwW6DN54-jvv5)
+ - [By Sumi: Voice Examples](https://wiki.sumianvoice.com/wiki/pages/voice-examples/)
 
-list of voice banks:
-
-[By Adi]([fem voices exploration - YouTube](https://www.youtube.com/playlist?list=PL054AsyPIr1a027-oUYLJwW6DN54-jvv5))
 
 # Voice health
 

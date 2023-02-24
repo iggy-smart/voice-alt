@@ -499,12 +499,6 @@ There are set of long phrases (reddit) and short (TVL)
 
 Short are good for your recordings. Later you can compare your progress.
 
-## Voice examples
-
-### Voice banks
- - [By Adi: fem voices exploration - YouTube](https://www.youtube.com/playlist?list=PL054AsyPIr1a027-oUYLJwW6DN54-jvv5)
- - [By Sumi: Voice Examples](https://wiki.sumianvoice.com/wiki/pages/voice-examples/)
-
 
 # Voice health
 
@@ -580,14 +574,21 @@ Language
 # Communities
 # Voice examples
 ## Banks
+ - [By Adi: fem voices exploration - YouTube](https://www.youtube.com/playlist?list=PL054AsyPIr1a027-oUYLJwW6DN54-jvv5)
+ - [By Sumi: Voice Examples](https://wiki.sumianvoice.com/wiki/pages/voice-examples/)
+
 ## YouTube e-girl trolls
 
 # Guides
 [Adi's old](https://docs.google.com/document/d/1MOd5CJQUGmUD5e1p7_CLxWLU-aFiUTmKvL0SoT-LhEk)
+
 [Sumi's wiki](https://wiki.sumianvoice.com/)
 
+
 [TVL YT: not ordered](https://www.youtube.com/@TransVoiceLessons)
+
 [TVL Glossary](https://docs.google.com/document/d/1FPDd2YIkYFVjghNFifAy-PUl0IuyKeB4I8xKJWIXdjc)
+
 [Outdated L's](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
 
 

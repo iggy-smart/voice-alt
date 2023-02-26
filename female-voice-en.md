@@ -1,3 +1,16 @@
+# TODO section
+- Main goals for all components and high level steps
+- Pitch training https://singingcarrots.com/pitch-training#game 
+- Pitch plan: exlore, extend high boundary, 
+- pitch matching: define range of notes, unison (TVL good example of what you should hear), leave playing sample sound, 
+- pitch matching: play sample for short amount of time - try to match up (pitch tracker can help to check yourself or you will hear unison)
+- pitch matching: try instad of toen geneartor other instruments: piano (online piano: https://www.onlinepianist.com/virtual-piano ;  apple garage band grand piano)
+- pitch matching: match along to a song or a person talking try to follow the pattern of speech (check vocal range may be before)
+- pitch matching: pitch matching with resonance and vocal weight
+- define parallel tracks. requerments for every drill: previous drill completion
+- pitch matching: final goal: match speech pattern/articulation/intonation
+- quite/non-breathy: low air + lowputch -> high pitch. v/f -> humming. high resonance uncover breathiness. if fail: try to deep resonance + low air + high pitch a3/g3 -> rise resonance.
+
 # Intro
 This self-teaching guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 
 
@@ -116,7 +129,7 @@ graph TD
     B[FemVoice]
     
     Breathiness_Balance --> B
-    Balance[Balance</br>Experiments] -.-> B
+    Balance[Finding balance</br>Experiments</br>Luck</br>Experience] -.-> B
     
     B --> C
 
@@ -204,7 +217,7 @@ A:
 
 M: You can fluently speak higher than F3 don't crossing F3. 
 
-It will be weird - it's ok. Your voice can be cartoonish and hollow.
+It will be weird - it's ok. Your voice can be cartoonishnot and hollow.
 
 But you may would like lower voice. So you can define lower boundary than F3.
 

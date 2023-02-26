@@ -9,7 +9,11 @@
 - pitch matching: pitch matching with resonance and vocal weight
 - define parallel tracks. requerments for every drill: previous drill completion
 - pitch matching: final goal: match speech pattern/articulation/intonation
+- quite/non-breathy = finding non-breathy sound = closure drills
 - quite/non-breathy: low air + lowputch -> high pitch. v/f -> humming. high resonance uncover breathiness. if fail: try to deep resonance + low air + high pitch a3/g3 -> rise resonance.
+- quite/non-breathy: go through M1->M2 range (slides) with different configurations:try breathy/non-breathy, loud/quiet sounds.  try to get a hollow and relaxed sound at a high pitch and match it up with your low pitches, making the whole range smooth but effortless
+- quite/non-breathy: glottal strike (short a/e); glottal taps
+- quite/non-breathy: exclude FVF
 
 # Intro
 This self-teaching guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 

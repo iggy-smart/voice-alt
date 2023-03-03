@@ -1,20 +1,3 @@
-# TODO section
-- Main goals for all components and high level steps
-- Pitch training https://singingcarrots.com/pitch-training#game 
-- Pitch plan: exlore, extend high boundary, 
-- pitch matching: define range of notes, unison (TVL good example of what you should hear), leave playing sample sound, 
-- pitch matching: play sample for short amount of time - try to match up (pitch tracker can help to check yourself or you will hear unison)
-- pitch matching: try instad of toen geneartor other instruments: piano (online piano: https://www.onlinepianist.com/virtual-piano ;  apple garage band grand piano)
-- pitch matching: match along to a song or a person talking try to follow the pattern of speech (check vocal range may be before)
-- pitch matching: pitch matching with resonance and vocal weight
-- define parallel tracks. requerments for every drill: previous drill completion
-- pitch matching: final goal: match speech pattern/articulation/intonation
-- quite/non-breathy = finding non-breathy sound = closure drills
-- quite/non-breathy: low air + lowputch -> high pitch. v/f -> humming. high resonance uncover breathiness. if fail: try to deep resonance + low air + high pitch a3/g3 -> rise resonance.
-- quite/non-breathy: go through M1->M2 range (slides) with different configurations:try breathy/non-breathy, loud/quiet sounds.  try to get a hollow and relaxed sound at a high pitch and match it up with your low pitches, making the whole range smooth but effortless
-- quite/non-breathy: glottal strike (short a/e); glottal taps
-- quite/non-breathy: exclude FVF
-
 # Intro
 This self-teaching guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 
 
@@ -77,7 +60,7 @@ TODO links
 TODO make quick overview (https://christie-block-lzjg.squarespace.com/transfeminine-speakers)
 
 ## So our goal (SMART)
-S: As a males by birth we are going to learn female voice. It can be done in isolation of people but internet needed to hear examples/materials and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises (throat/mouth/tongue/etc). Time for thinking about exercises. Exercies don't change you default voice. But you can forget how to speak in it if you don't use voice. Exercies have good impact for [singing] (https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting. (There are common skills).
+S: As a males by birth we are going to learn female voice. It can be done in isolation of people but internet needed to hear examples/materials and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises (throat/mouth/tongue/etc). Time for thinking about exercises. Exercies don't change you default voice. But you can forget how to speak in it if you don't use voice. Exercies have good impact for [singing](https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting. (There are common skills).
 
 M: 
 1) People: goal is completed when we passing as female by voice.
@@ -153,12 +136,20 @@ https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
 TODO: discord mindmap is more detailed
 
 # Plan
+
+TODO mermaid flowchart with all chapters.
+TODO define parallel tracks. requerments for every drill: previous drill completion
+
+## Quick plan overview
+TODO Main goals for all components and high level steps
+
 ## How to teach yourself
 Key aspects:
 - regular basis/time
 - comfortable place for exercises
 - don't hurt yourself/health
 - theory -> ear training -> exercises -> applying to voice
+- muscles exercies (not about stength) = finding muscles, moving them, learn how to control them, sometimes isolating muscles control, creating habbits
 - record your progress
 
 Have time and plan what you will do.
@@ -192,6 +183,9 @@ T: don't spend too much time on it. You can do it in a background.
 
 +L: [Voice examples](#Voice examples)
 
+## Warmup
+SOVTEs/etc
+
 ## Onsets
 TODO SMART
 
@@ -215,7 +209,7 @@ A:
 1) Read about [Pitch](#Pitch)
 2) Download [Pitch tracker](#Pitch tracker)
 3) Do slides LINK
-4) Optional. Explore you vocal range LINK
+4) Optional. Explore your vocal range LINK
 5) TVL: pitch
 6) Speak higher than F3, try don't cross F3 boundary
 
@@ -225,22 +219,31 @@ It will be weird - it's ok. Your voice can be cartoonishnot and hollow.
 
 But you may would like lower voice. So you can define lower boundary than F3.
 
+Notice: when we go higher sound can be more breathy. Let's leave that breathy/noisy sound we'll work on it later.
+
+## Pitch matching: notes
+S: final goal: copy voice intonation you like to develop fem voice behaviour. We need to be good at ptich matching to copy it.
+TBD
+- Pitch training https://singingcarrots.com/pitch-training#game 
+- pitch matching: define range of notes, unison (TVL good example of what you should hear), leave playing sample sound, 
+- pitch matching: play sample for short amount of time - try to match up (pitch tracker can help to check yourself or you will hear unison)
+- pitch matching: try instad of tone geneartor other instruments: piano (online piano: https://www.onlinepianist.com/virtual-piano ;  apple garage band grand piano)
+- pitch matching: match along to a song or a person talking try to follow the pattern of speech (check vocal range may be before)
+- pitch matching: pitch matching with resonance and vocal weight
+
+
+## Pitch range extension
+Sumi -> PIPM
+
 ## Exploring pitch and weight
 S: [Vocal folds weight](#Weight). We'll develop control skill over weight.
-
-### Loudness/air speed/weight
-### Pitch isolated
-### smooth slides
-Go up and down
-
-listen TVL video
-
-### sounds, mmm, vowels, words, sentences
+...
+TVL exercies are relly good
 
 
 ## Exploring size: larynx height
 A: 
-Exporing:
+Exploring:
 1) Touch Adam's apple and swallow. Larynx went up.
 2) Try yawn. Larynx went down.
 
@@ -271,6 +274,25 @@ When you feel all sounds are good. Try to speak sentances.
 
 You may notice that some sounds cause the larynx to go lower. Work on fixing them.
 
+## Breathiness
+S: our usual talking voice is not too breathy. So if you are breathy we'll work on it.
+
+R: Are your voice is breathy?  So if it's okay go to the next chapter
+
+M: (TODO Find good example of breathy/non breathy voice)
+
+R: You need pitch control skill LINK
+
+A: TBD 
+
+quite/non-breathy = finding non-breathy sound = closure drills
+quite/non-breathy: low air + lowputch -> high pitch. v/f -> humming. high resonance uncover breathiness. if fail: try to deep resonance + low air + high pitch a3/g3 -> rise resonance.
+quite/non-breathy: go through M1->M2 range (slides) with different configurations:try breathy/non-breathy, loud/quiet sounds. try to get a hollow and relaxed sound at a high pitch and match it up with your low pitches, making the whole range smooth but effortless
+quite/non-breathy: glottal strike (short a/e); glottal taps
+quite/non-breathy: exclude FVF
+
+
+
 ## Adding pitch to resonance
 ## Combining pitch/size/weight
 ## FVF
@@ -284,9 +306,12 @@ Improvements and common mistakes
 
 [Quick Voice Tips: Avoid Bad Lip Habits! by TVL](https://www.youtube.com/watch?v=gviIEbgvIbk)
 
+## Voice copying
+S: final goal: match speech pattern/articulation/intonation/some other features
 
+S: voice breakdown
 
------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Voice components
 ## Weight

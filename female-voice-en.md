@@ -130,10 +130,23 @@ graph TD
     
 ```
 
-### mind maps/etc
+### mind map
 https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
 
-TODO: discord mindmap is more detailed
+## What parameters we are going to control
+- Vocal pitch
+- Vocal weight
+- Vocals Cords Closure
+- False Vocal Folds closure
+- Airflow speed
+- Larynx height
+- OPC
+- Tongue position
+- Lips position
+- Soft palate
+
+Firstly we are going to control them. Then let brain change them indirectly by hearing sound and build habbits.
+
 
 # Plan
 
@@ -635,8 +648,9 @@ Language
 
 
 # Thanks
-TVL/Zheanna 
+Zheanna/TVL
 Adi
 Savvy
+CRAMD
 Sumi
 Zoey

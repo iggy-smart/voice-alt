@@ -472,6 +472,7 @@ It is a good time to rebuild laugh habbit and select laugh you like.
 - [by Zoey](https://www.youtube.com/watch?v=l1xCKTQOH5k)
 
 ## Throat clear
+[By TVL](https://www.youtube.com/watch?v=_DP6KB5j2qQ)
 
 ## Sneeze
 

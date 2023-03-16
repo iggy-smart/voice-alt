@@ -519,7 +519,7 @@ Mel scale
 [in-browser](https://spec.sumianvoice.com)
 
 ## Noise
-TVL downloads
+[brown noise in details](https://www.youtube.com/watch?v=D_b--xk7IxM)
 
 online brown noise/noise generators
 

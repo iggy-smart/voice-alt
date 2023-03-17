@@ -443,6 +443,10 @@ Breathiness in singing: [1](https://www.youtube.com/watch?v=J4vgDegu9ww) [2](htt
 ### Siren Whisper
 ### Vampire Whisper
 ### Big dog/small dog
+### Imitating cat sounds
+Try to imitate cat "meow!" or other cat sounds. Sounds you think are really small.
+meow! meow! meow! 
+
 ### Scale eng vowels
 OPC vowels/words:
 - heed

@@ -218,6 +218,9 @@ T: don't spend too much time on it. You can do it in a background.
 ## Warmup
 SOVTEs/etc
 
+/airflow consist/
+https://www.youtube.com/watch?v=PQUo7eimhWA
+
 ## Onsets
 TODO SMART
 

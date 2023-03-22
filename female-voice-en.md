@@ -130,15 +130,16 @@ graph TD
         Less_Weight
     end
 
-    C[Improve]
-    B[FemVoice]
+    B[FemSounds]
+    D[FemVoice]
     
     Breathiness_Balance --> B
     Balance[Finding balance</br>Experiments</br>Luck</br>Experience] -.-> B
     
     B --> C
+    C --> D
 
-    subgraph C
+    subgraph C[Improve]
         Articulation
         Mimic
         Twang

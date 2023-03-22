@@ -299,11 +299,11 @@ R: You need pitch control skill LINK
 A: TBD 
 
 quite/non-breathy = finding non-breathy sound = closure drills
-quite/non-breathy: low air + lowputch -> high pitch. v/f -> humming. high resonance uncover breathiness. if fail: try to deep resonance + low air + high pitch a3/g3 -> rise resonance.
+quite/non-breathy: low air + low pitch -> high pitch. v/f -> humming. high resonance uncover breathiness. if fail: try to deep resonance + low air + high pitch a3/g3 -> rise resonance.
 quite/non-breathy: go through M1->M2 range (slides) with different configurations:try breathy/non-breathy, loud/quiet sounds. try to get a hollow and relaxed sound at a high pitch and match it up with your low pitches, making the whole range smooth but effortless
 quite/non-breathy: glottal strike (short a/e); glottal taps
 quite/non-breathy: exclude FVF
-
+quite/non-breathy: exercises summary: 1) creak slide lwo pitch to high; 2) iterative variant: low pitch do gradient from voiced sound to creak (almost unvoiced), go higher 1-2 notes and repeat  3) same is 2 but fromm voiced sound do glottal tap + varaint with low air
 
 
 ## Adding pitch to resonance

@@ -1,9 +1,8 @@
 # Intro
-This self-teaching guide helps AMABs have female voice after puberty period. Only exercises. Guide based on SMART criteria (Almost all chapters). 
+This self-teaching guide is designed to help individuals who were assigned male at birth (AMAB) develop a female-sounding voice after the puberty period using exercises. It is not harmful and is based on the SMART criteria (with almost all chapters meeting this standard). The guide is a work in progress.
 
 ## Our goals
-We gather all best in one place. Trying to give one step-by-step guide with voice examples 
-with definiton of done for every step.
+We (the authors) have gathered all the best in one place. Trying to provide a step-by-step guide with voice examples, including a definition of "done" for every step.
 
 ## Key guide components
 For every aspect:
@@ -50,14 +49,33 @@ Why we are setting this goal (R?)
 Links/references to examples/guides
 
 # Overview
-## These exercise are against
-- difference in vocal tract size changes during male puberty period
-- articulation differences
-- behavior of making loud sounds
-- pitch difference
+## These exercises are designed to counteract the effects of
+- changes in vocal tract size during male puberty
+- differences in intonation and articulation between males and females
+- habits of speaking loudly
+- differences in pitch
 
-TODO links
-TODO make quick overview (https://christie-block-lzjg.squarespace.com/transfeminine-speakers)
+### Pitch overview
+Although pitch is not the sole characteristic used to achieve a more feminine voice, it is frequently the most important one. Without a higher pitch, it can be challenging for most people to sound feminine. On average, cisgender males speak with a pitch that is about an octave lower than cisgender females.
+
+### Resonance overview
+Resonance plays a crucial role in determining whether a person is perceived as sounding naturally feminine or like a man with a high-pitched voice. Resonance refers to the way sound reverbs in a space, so for us it is chest, neck and head. Depending on that space your voice can sound bigger, darker, or more boomy, similar to the difference in tone between a cello and a violin. Space can be changed by shifting the placement of your tongue or larynx in the upper airway, you can aim to utilize less of your vocal space, resulting in a smaller, brighter, or less boomy-sounding voice, similar to a violin. This involves directing your vocal sound 'forward'. Learning to manipulate resonance can be challenging, but once you master it, it can make a significant difference in how your voice is perceived
+
+### Intonation overview
+In addition to increasing your average pitch, expanding the pitch range of your voice can also contribute to a more feminine perception. One way to achieve this is by being more expressive and moving your pitch around more, especially with higher highs. These pitch movements include:
+ - moving your pitch smoothly
+ - blending or connecting each sound with the next one
+ - sliding into higher pitches to avoid voice breaks and hard voice onsets
+ - ending on a slightly higher pitch at the ends of sentences when appropriate for the intended meaning.
+
+### Articulation overview
+TODO Needs review
+There are some differences in articulation between men and women, although it is important to note that there is also a lot of variability within each gender.
+One of the main differences is that women tend to have a more forward tongue placement during speech, which means their tongue is positioned closer to the front of their mouth. There are other aspects to pronouncing more feminine vowels and syllables.
+
+### Overview of other aspects
+The typical characteristics of cis female voices include being softer, breathier, and having different loudness control than cis male voices.
+
 
 ## So our goal (SMART)
 S: As a males by birth we are going to learn female voice. It can be done in isolation of people but internet needed to hear examples/materials and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises (throat/mouth/tongue/etc). Time for thinking about exercises. Exercies don't change you default voice. But you can forget how to speak in it if you don't use voice. Exercies have good impact for [singing](https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting. (There are common skills).
@@ -287,7 +305,10 @@ When you feel all sounds are good. Try to speak sentances.
 
 You may notice that some sounds cause the larynx to go lower. Work on fixing them.
 
-## Breathiness
+## Removing breathiness
+
+[Breathiness](#Breathiness)
+
 S: our usual talking voice is not too breathy. So if you are breathy we'll work on it.
 
 R: Are your voice is breathy?  So if it's okay go to the next chapter
@@ -431,14 +452,27 @@ https://www.youtube.com/watch?v=9IejHKpfHso
 ## Loudness
 
 ## Breathiness
-Your sound is too breathy. What caouses breathiness:
+TODO give an audio/video example (YT?)
+
+Your sound is too breathy. What causes breathiness:
 1. Vocal folds are too open. Try to start from creak (constricted)
 2. You pushing too much air through vocal folds
 3. Before making voiced sounds your vocal folds are too open.
 
 Breathiness in singing: [1](https://www.youtube.com/watch?v=J4vgDegu9ww) [2](https://www.youtube.com/watch?v=ojHV7u9eLSg)
 
------------
+### Weak vocal cords
+The term "weak vocal cords" typically refers to a condition where the muscles that control the vocal cords are not functioning at their full capacity. The vocal cords are a pair of muscles that are located in the larynx (voice box) and play a critical role in producing sound when we speak or sing.
+
+When the muscles controlling the vocal cords are weak, they may not be able to close the vocal cords tightly enough, leading to breathiness or hoarseness in the voice. This can also cause difficulty in projecting the voice or sustaining a note while singing.
+
+There can be various causes of weak vocal cords, such as vocal overuse, vocal cord nodules or polyps, neurological conditions affecting the larynx, or side effects of certain medications. Treatment options for weak vocal cords may include speech therapy, rest, medication, or in some cases, surgery.
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Voice exercises
 ## Weight/pitch
@@ -505,7 +539,7 @@ Voice Back: [iOS](https://apps.apple.com/us/app/voice-back-sing-speak/id10717302
 #### Vocal Pitch Monitor 
 [android](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor) 
 
-can record and shows pitch
+can record and show pitch
 
 TODO see L's guide how to set F3 as highlighted line
 
@@ -666,6 +700,7 @@ Language
 Zheanna/TVL
 Adi
 Savvy
-CRAMD
 Sumi
+Selene
+CRAMD
 Zoey

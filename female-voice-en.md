@@ -341,7 +341,17 @@ More weight - more audible buzziness.
 Less weight - more breathy.
 
 +L: LINK: adi/TVL/savvvy/Selene
-(Olivia Flanigan) https://www.youtube.com/watch?v=vwv0JlCIXHE
+(Olivia Flanigan)[https://www.youtube.com/watch?v=vwv0JlCIXHE]
+
+## Cords closure
+It is not the same as weight but tighlty related to weight. When we add weight - sound is getting buzzy, but when we closing cords it doesn't.
+vocals closure gradient: 
+- whisper 
+- breathy (voice added)
+- full voice 
+- creak
+- creak 'almost unvoiced'
+- glottal stop
 
 ## Vocal twang
 L's (3.8 https://www.reddit.com/r/transvoice/comments/d3cq5l/ls_voice_training_guide_level_3_for_mtf/ )
@@ -574,7 +584,7 @@ Quick ideas:
 +L: [CTRL-F [PP] ](https://www.reddit.com/r/transvoice/comments/mgaci7/solid_introductory_voice_training_resources/)
 
 ## Vocal underdoer
-## Pitch low boundary creek
+## Pitch low boundary creak
 
 # Teachers
 Lessons: Group vs individual, private and public.

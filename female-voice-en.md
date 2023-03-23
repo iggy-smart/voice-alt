@@ -539,6 +539,20 @@ It is a good time to rebuild laugh habbit and select laugh you like.
 
 ## Nasality
 
+## Glottal stop
+Stopping air by true vocal cords.
+To stop air using the true vocal cords, start by opening your mouth and taking a deep breath. Hold your breath briefly before releasing it abruptly, while trying to relax your diaphragm to prevent air from escaping. When executed correctly, this technique results in full true fold closure.
+
+## Glottal tap
+A glottal tap is a sound produced by momentarily closing the vocal folds, causing a brief interruption in the flow of air. It is a common sound in many languages and can add emphasis to certain words or syllables (e.g. uh-oh, so dash here is a glottal tap)
+
+To perform a glottal tap:
+
+Take a deep breath and open your mouth.
+Allow your vocal folds to close briefly, blocking the airflow.
+Release the closure abruptly, allowing air to pass through and create a short, sharp sound.
+Practice this motion until you can create a distinct glottal tap sound.
+It's important to note that excessive use of glottal taps can be damaging to the voice, so it's best to use them sparingly and with proper technique. If you're unsure how to produce the sound or have any concerns about your vocal health, it's always a good idea to consult with a voice coach.
 
 # Analysis
 ## Apps

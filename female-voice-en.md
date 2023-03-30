@@ -88,7 +88,7 @@ The typical characteristics of cis female voices include being softer, breathier
 ## So our goal (SMART)
 S: As someone who was assigned male at birth (AMAB), I'm trying to learn how to speak with a more feminine voice. So my goal is to speak with a feminine voice like cisgender women do in their everyday lives, without experiencing difficulties.
 
-This can be done alone, but it's helpful to have access to examples and materials online, as well as the guidance of [online tutors](#Teachers). It takes a lot of time and practice, and it's important to have a dedicated space for vocal exercises. Time for thinking about exercises. Regular practice is essential, as the exercises won't permanently change your default voice, but they can help you improve your speaking and singing abilities. In fact, voice exercises can be beneficial for [singing](https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting, as they build valuable skills.
+This can be done alone, but it's helpful to have access to examples and materials online, as well as the guidance of [online tutors](#Teachers). It takes a lot of time and practice, and it's important to have a dedicated space for vocal exercises. Time for thinking about exercises. Regular practice is essential, as the exercises won't permanently change your default voice, but they can help you improve your speaking and singing abilities. In fact, voice exercises can be beneficial for [singing (YT)](https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting, as they build valuable skills.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------

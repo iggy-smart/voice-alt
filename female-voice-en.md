@@ -365,6 +365,7 @@ quite/non-breathy: glottal strike (short a/e); glottal taps
 quite/non-breathy: exclude FVF
 quite/non-breathy: exercises summary: 1) creak slide lwo pitch to high; 2) iterative variant: low pitch do gradient from voiced sound to creak (almost unvoiced), go higher 1-2 notes and repeat  3) same is 2 but fromm voiced sound do glottal tap + varaint with low air
 quite/non-breathy: slide from low to high going to be too brethy in higher pitch: try to don't do slides and go immidiately to pitcj you need
+quite/non-breathy: +2 ideas: https://wiki.sumianvoice.com/wiki/pages/clarity/breathiness.html
 
 ## Adding pitch to resonance
 ## Combining pitch/size/weight

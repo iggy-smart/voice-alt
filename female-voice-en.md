@@ -24,29 +24,36 @@ Main chapters:
 [SMART criteria - Wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
 
 ## Specific
-What is result? Why it's important? (+W) What/where. Resources and limitations
+(S) What is result? Specific and detailed. What/where.
 
 ## Relevant
-Why do you need it?
-Checklist is it good time for it: resources, time/__requirements__. Requirements can include some previous exercies.
+(+W) Why do you need it? Why we are setting this goal ?
+
+(R) Checklist is it good time for it. Do you have enough of resources? (define amount of resources. time/experience/requirements/etc). Requirements can include some previous exercises.
 
 ## Achievable
-How to achieve. Other's experience. Do you have enough of resources? (define amount of resources. time/experience/etc)
+(A) How to achieve.
+
+(..) Other's experience. 
+
+(-F) Fail case. Half-done.
 
 ## Measurable
-How to get you done it? Defenition of done.
+(M) How to get you done it? Defenition of done. How to measure progress.
 
 ## Time-bound
-No deadlines. Let's try put here time for one exercise or complexity in stars. Do until you pass M.
+(T) No deadlines defined here. We left practice schedule to yourself. So you can define your timeline.
 
-## -Donos
-What you should avoid.
+We put here time for one exercise or complexity in stars (N stars out of 5). Do until you pass defenition of done.
 
-## +Why
-Why we are setting this goal (R?)
+## +Evaluate and re-adjust
+(+E) Faced with a continuous problem? It’s time to take a step back and re-adjust sub-goal/practice method.
+
+## -Warns / -Donos
+(-W)(-D) What you should avoid.
 
 ## +Links
-Links/references to examples/guides
+(+L) Links/references to examples/guides
 
 # Overview
 ## These exercises are designed to counteract the effects of
@@ -69,43 +76,69 @@ In addition to increasing your average pitch, expanding the pitch range of your 
  - ending on a slightly higher pitch at the ends of sentences when appropriate for the intended meaning.
 
 ### Articulation overview
-TODO Needs review
+TODO review
+
 There are some differences in articulation between men and women, although it is important to note that there is also a lot of variability within each gender.
+
 One of the main differences is that women tend to have a more forward tongue placement during speech, which means their tongue is positioned closer to the front of their mouth. There are other aspects to pronouncing more feminine vowels and syllables.
 
 ### Overview of other aspects
 The typical characteristics of cis female voices include being softer, breathier, and having different loudness control than cis male voices.
 
-
 ## So our goal (SMART)
-S: As a males by birth we are going to learn female voice. It can be done in isolation of people but internet needed to hear examples/materials and with help of [online tutors](#Teachers). We need time (lot of time), may be place for voiced exercises (throat/mouth/tongue/etc). Time for thinking about exercises. Exercies don't change you default voice. But you can forget how to speak in it if you don't use voice. Exercies have good impact for [singing](https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting. (There are common skills).
+S: As someone who was assigned male at birth (AMAB), I'm trying to learn how to speak with a more feminine voice. So my goal is to speak with a feminine voice like cisgender women do in their everyday lives, without experiencing difficulties.
+
+This can be done alone, but it's helpful to have access to examples and materials online, as well as the guidance of [online tutors](#Teachers). It takes a lot of time and practice, and it's important to have a dedicated space for vocal exercises. Time for thinking about exercises. Regular practice is essential, as the exercises won't permanently change your default voice, but they can help you improve your speaking and singing abilities. In fact, voice exercises can be beneficial for [singing](https://www.youtube.com/watch?v=t8EcTotO6no) and voice acting, as they build valuable skills.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP  WIP  WIP  WIP  WIP  WIP  WIP
+
+WORK IN PROGRESS
+
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP  WIP  WIP  WIP  WIP  WIP  WIP
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 M: 
 1) People: goal is completed when we passing as female by voice.
 2) Your own goal for your voice: pitch, articulation, accent, resonance. Your parameters are near to your reference.
 
-A: Many people have done voice transformation w/o surgery. Here are examples: TODO Demos: L's., adi, YT trolls. EXCEPTIONS?
+A: Many people have done voice transformation w/o surgery. Here are examples: TODO Demos: L's., adi, YT trolls. TODO EXCEPTIONS?
+
 To pass you should do exercises. Here is a [plan](#Plan).
+
 Where you can find people who are in process or finished: discord/reddit (TODO). Allocate time or do in random period of time and have [place](#Place for training) for your experiments. What can make goal unachievable? TODO
 
 R: You can do exercise time to time. Think about motivation and are you really need it? 
 
 T: It can take too much time. 1 year? Or one month for decent result. 
+
 It depends on you: your vocal background, your vocal tract shape, your ability to control muscles and your time.
+
 Nobody knows how much time you need. You can work on your voice every day twice for 15 mins or twice per week 30 mins. 
+
 You can be [vocal underdoer](#Vocal underdoer) < singer/vocal actor.
+
 You can have already small enough vocal tract. So you need less effort for voice feminization.
+
 If you are busy, 15 mins/day is really good enough for exercises.
 
 TODO compare to other skills by complexity/time
+
 Car driving?
 
--D: we are avoid strain/pain/etc TODO SOVTEs health link
+-W: 
+We are avoid strain/pain/etc TODO SOVTEs health link
+
+Fun fact: Did you know that if you don't use your masculine voice regularly, you can actually forget how to speak with it?
 
 +W: I don't know why do you have this goal:
 - you are trans MtF and this skill is critical for you
 - you are FtM on HRT and you need learn female voice
-- you are going to be voice actor
+- you need it for voice acting
 - you want be a voice troll
 - you want answer on help desk calls with fem voice 😃 (who knows)
 
@@ -149,12 +182,6 @@ graph TD
     
 ```
 
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-WORK IN PROGRESS
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### mind map

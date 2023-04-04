@@ -621,6 +621,9 @@ Mel scale
 #### Spectrus
 [in-browser](https://spec.sumianvoice.com)
 
+#### resonance/pitch estimation (eng)
+[Accoustinc Gender Space Viewer](https://acousticgender.space/) [gh](https://github.com/lmcnulty/gender-voice-visualization)
+
 ## Noise
 [brown noise in details](https://www.youtube.com/watch?v=D_b--xk7IxM)
 
@@ -634,6 +637,7 @@ By default you can't hear yourself as it do people near to you. WHY TODO
 But you can do it with your hands.
 
 [by TVL](https://www.youtube.com/watch?v=hniY6-QOWKg)
+
 [by Singgeek](https://www.youtube.com/watch?v=-e5ULS6EURU&t=298s)
 
 

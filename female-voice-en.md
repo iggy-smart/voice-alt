@@ -545,6 +545,11 @@ OPC vowels/words:
 
 
 ### Bright S-sound
+
+So general rule (prooven by investigations):
+ - male: 'S'/'Z' are mostly alveolar consonant
+ - female: 'S'/'Z' are mostly dental consonant
+
 Mimic: [Clyp by Adi] https://clyp.it/t3lhcmwf
 
 tip: try a little bit smile: so corners of the lips

@@ -265,6 +265,13 @@ T: Don't focus too much. Once is enough.
 
 +L: https://www.youtube.com/watch?v=Y9pKZt7R1Dk
 
+Types of vocal onsets (from singing):
+1. Glottal onset. A glottal onset occurs when the vocal folds come together abruptly, creating a hard or sharp attack. This can create a harsh or abrupt sound, and is common in certain styles of singing, such as punk or hard rock.
+2. Smooth onset. A smooth onset occurs when the vocal folds come together gradually, creating a gentle or soft attack. This can create a more fluid or natural sound, and is common in many styles of singing.
+3. Breath onset. A breath onset occurs when the singer takes a breath before beginning to sing. This can create a distinct pause or break between phrases or notes.
+4. Aspirate onset. An aspirate onset occurs when the singer exhales air before beginning to sing, creating a breathy or airy sound. This can be used for stylistic effect, such as in certain genres of pop or R&B.
+5. Glottal fry onset. A glottal fry onset occurs when the vocal folds vibrate slowly, creating a creaky or gravelly sound. This is often used for stylistic effect, such as in certain genres of indie or alternative music.
+
 ## Exploring pitch
 S: 
 1) Answer questions: What is pitch? What is average female range?

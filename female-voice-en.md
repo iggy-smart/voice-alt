@@ -190,7 +190,7 @@ https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
 ## What parameters we are going to control
 - Vocal pitch
 - Vocal weight
-- Vocals Cords Closure
+- (True) Vocals Cords Closure
 - False Vocal Folds closure
 - Airflow speed
 - Larynx height

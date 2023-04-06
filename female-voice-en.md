@@ -546,13 +546,13 @@ OPC vowels/words:
 
 ### Bright S-sound
 
-So general rule (prooven by investigations):
- - male: 'S'/'Z' are mostly alveolar consonant
- - female: 'S'/'Z' are mostly dental consonant
+So general rule (proven by scientific researches):
+ - male: 'S' are mostly alveolar consonant
+ - female: 'S' are mostly dental consonant (tongue tip is behind of teeth)
 
 Mimic: [Clyp by Adi] https://clyp.it/t3lhcmwf
 
-tip: try a little bit smile: so corners of the lips
+tip: try a little bit smile: so corners of the lips TODO
 
 BTW: avoid [bad lip habbits](#Bad lips habbits)
 
@@ -656,7 +656,14 @@ or have headset with transparent hearing or https://www.reddit.com/r/transvoice/
 Do records with same sounds/sentences to measure your progress or hear yourself
 
 ### External ears
-reddit/discord/tutor
+Are you going to check to see if your voice passes as female? Here are the options:
+- https://www.reddit.com/r/transvoice/
+- voice-specific discord servers (They usually have special channels)
+- personal voice tutor
+- friends
+- voice chats (discord/games/VR Chat)
+- Omegle *
+
 
 ### What to say
 You can stuck what to say when do trills
@@ -741,11 +748,13 @@ Language
 
 # Communities
 # Voice examples
-## Banks
+## Female voice banks
  - [By Adi: fem voices exploration - YouTube](https://www.youtube.com/playlist?list=PL054AsyPIr1a027-oUYLJwW6DN54-jvv5)
  - [By Sumi: Voice Examples](https://wiki.sumianvoice.com/wiki/pages/voice-examples/)
 
-## YouTube e-girl trolls
+## People who 'can'
+- girl voice trolls on YouTube
+- singers (e.g. [Mike Milosh](https://youtu.be/gUvCkUi66VQ?t=1194) )
 
 # Guides
 [Adi's old](https://docs.google.com/document/d/1MOd5CJQUGmUD5e1p7_CLxWLU-aFiUTmKvL0SoT-LhEk)

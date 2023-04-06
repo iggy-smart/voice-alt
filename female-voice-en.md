@@ -253,6 +253,8 @@ T: don't spend too much time on it. You can do it in a background.
 ## Warmup
 SOVTEs/etc
 
+[SOVTEs by Adi](https://soundcloud.com/adi-phoenix-658511988/sovte-and-vfe-descrption)
+
 /airflow consist/
 https://www.youtube.com/watch?v=PQUo7eimhWA
 

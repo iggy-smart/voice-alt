@@ -23,3 +23,9 @@ SOVTE (Semi Occluded Vocal Tract Exercises)/Vocal Function exercises
 ## Resources
 пока тут будут ссылки на русскоязычные материалы
 [Twang/Singing](https://www.youtube.com/watch?v=dyzwGx-g9u8)
+
+
+# Заметки
+## Larynx
+Гортань, глотка, адамово яблоко, кадык
+Adam's apple

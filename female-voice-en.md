@@ -239,6 +239,15 @@ Record you progress (select phrase for it). Progress should be measurable. When 
 join discord servers and be up to date LINK to chapter
 find friends with same goals
 
+## Build motivation
+Typical it's long story. Not all people can run so long.
+
+Z's video - about embedding exercises in dayling roitine
+Renee - ?
+
+Notification based: YT, discord
+Competition/support based: friends who are on the same level
+
 ## Finding Inspiration
 S: find fem voice you like.
 

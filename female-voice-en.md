@@ -100,7 +100,7 @@ WORK IN PROGRESS
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP  WIP  WIP  WIP  WIP  WIP  WIP
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+... add lot of people reopening singing for themselves
 
 M: 
 1) People: goal is completed when we passing as female by voice.
@@ -235,6 +235,10 @@ About developing skills from TVL Christmas stream (keyword: pedaling)
 
 Record you progress (select phrase for it). Progress should be measurable. When you hear your progress it motivates you.
 
+## Voice communities
+join discord servers and be up to date LINK to chapter
+find friends with same goals
+
 ## Finding Inspiration
 S: find fem voice you like.
 
@@ -254,6 +258,7 @@ T: don't spend too much time on it. You can do it in a background.
 SOVTEs/etc
 
 [SOVTEs by Adi](https://soundcloud.com/adi-phoenix-658511988/sovte-and-vfe-descrption)
+TODO Z's good video
 
 /airflow consist/
 https://www.youtube.com/watch?v=PQUo7eimhWA
@@ -267,6 +272,7 @@ T: Don't focus too much. Once is enough.
 
 +L: https://www.youtube.com/watch?v=Y9pKZt7R1Dk
 
+TODO move this to another place Z's video is enough
 Types of vocal onsets (from singing):
 1. Glottal onset. A glottal onset occurs when the vocal folds come together abruptly, creating a hard or sharp attack. This can create a harsh or abrupt sound, and is common in certain styles of singing, such as punk or hard rock.
 2. Smooth onset. A smooth onset occurs when the vocal folds come together gradually, creating a gentle or soft attack. This can create a more fluid or natural sound, and is common in many styles of singing.
@@ -299,6 +305,10 @@ It will be weird - it's ok. Your voice can be cartoonishnot and hollow.
 But you may would like lower voice. So you can define lower boundary than F3.
 
 Notice: when we go higher sound can be more breathy. Let's leave that breathy/noisy sound we'll work on it later.
+
+## Vocal underdoers
+Z's video
+Brief description and definition
 
 ## Pitch matching: notes
 S: final goal: copy voice intonation you like to develop fem voice behaviour. We need to be good at ptich matching to copy it.
@@ -481,10 +491,10 @@ nasality
 ## Formant
 TODO
 
-F0 - pitch,
+F0 - base pitch
 F1 - larynx/pharynx (aka R1)
 F2 - oral space (aka R2)
-
+F3 - lips space (aka R3) / smiling
 
 ## FVF
 aka false vocal folds, vestibular fold, ventricular fold
@@ -714,6 +724,8 @@ Language
 
 ## Where are they?
 
+TODO price, key experience, teaching TZ, free events, examples/teaching style, types of events
+
 ### TransVoiceLessons: Zheanna, Clover, Vivienne
 - [web](https://www.transvoicelessons.com/)
 - [YT](https://www.youtube.com/c/transvoicelessons)
@@ -742,9 +754,26 @@ Language
 - [Discord](https://discord.gg/ahc5hb9zSk) - public lessons recordings
 - [wiki](https://wiki.sumianvoice.com/)
 
+## Possum studios: Jana
+- [Discord](https://discord.gg/MqEsRDA3QV)
+
+### VRC Trans Academy
+They host voice lessons
+- [Discord](https://discord.gg/transacademy)
+- [YT](https://www.youtube.com/@transacademy/videos)
+
 ### Fluid Voice Studio: Dusty
 - [web](https://www.fluidvoice.studio/)
 - [Discord](https://discord.com/invite/6J99rRAvvp)
+
+### Trans Voice: Rachel
+- [web](https://www.transvoice.com/)
+- [VRC events](https://www.youtube.com/watch?v=YqTXC59xUyU&list=PL4dUgckgoKurHoxUzZpbsuHUu6Qp0Mi4B)
+
+### Renée Yoxon 
+- [web](https://www.reneeyoxon.com/)
+- [Discord](https://www.reneeyoxon.com/blog/search?&q=trans+voice)
+- [YT](https://www.youtube.com/c/Ren%C3%A9eYoxon)
 
 ### Seattle Voice Lab
 - [web](https://www.seattlevoicelab.com/)
@@ -756,16 +785,20 @@ Language
 - [IG](https://www.instagram.com/undead.voice/)
 
 # Communities
+- reddit
+- reddit->discord
+
 # Voice examples
 ## Female voice banks
  - [By Adi: fem voices exploration - YouTube](https://www.youtube.com/playlist?list=PL054AsyPIr1a027-oUYLJwW6DN54-jvv5)
  - [By Sumi: Voice Examples](https://wiki.sumianvoice.com/wiki/pages/voice-examples/)
 
-## People who 'can'
+## People who also 'can'
 - girl voice trolls on YouTube
 - singers (e.g. [Mike Milosh](https://youtu.be/gUvCkUi66VQ?t=1194) )
 
 # Guides
+## Text guides
 [Adi's old](https://docs.google.com/document/d/1MOd5CJQUGmUD5e1p7_CLxWLU-aFiUTmKvL0SoT-LhEk)
 
 [Sumi's wiki](https://wiki.sumianvoice.com/)
@@ -776,6 +809,12 @@ Language
 [TVL Glossary](https://docs.google.com/document/d/1FPDd2YIkYFVjghNFifAy-PUl0IuyKeB4I8xKJWIXdjc)
 
 [Outdated L's](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
+
+## Great prerecorded audio lessons/workshops
+1. I would recommend listen basic introduction lesson on 'Vox Nova' discord. It happens often and public availble.
+2. Sumi's public workshop [with Martha](https://drive.google.com/drive/folders/1GK_BS-pSCiu90sTYHC7xLDyiEjtr4try)
+3. ///Advanced Resonance Event Recording  https://drive.google.com/drive/folders/1O_obQ2aCSqnmTUjW0fu7aetWxBR_3VDs?usp=sharing Note that this is only for people who are stuck, not a general method!
+
 
 
 # Thanks

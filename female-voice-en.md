@@ -331,7 +331,7 @@ TBD
 
 
 ## Pitch range extension
-Sumi -> PIPM
+[Pitch Intuitive Practice Methodology by Sumi](https://wiki.sumianvoice.com/wiki/pages/PIPM/)
 
 ## Exploring pitch and weight
 S: [Vocal folds weight](#Weight). We'll develop control skill over weight.
@@ -398,6 +398,15 @@ quite/non-breathy: +2 ideas: https://wiki.sumianvoice.com/wiki/pages/clarity/bre
 ## Adding pitch to resonance
 ## Combining pitch/size/weight
 ## FVF
+
+
+## Resonance: extended
+TODO Sumi -> workshop (fixing issues)
+TODO pitch/resonance conflation
+TODO muscles
+Check thyrohyoid muscles and [stylohyoid](https://www.physio-pedia.com/Stylohyoid) muscle. They both involved in swallowin process.
+Thyrohyoid muscles does the main job to raise larynx. Although stylohyoid muscle can help raise larynx much higher. [Relaxing stylohoid muscles](https://www.youtube.com/watch?v=OqsOOWihnsg) but we are going tighten them.
+
 ## OPC
 [Stich voice breakdown by NY Vocal Coaching](https://www.youtube.com/watch?v=SuVe9dToYuQ)
 

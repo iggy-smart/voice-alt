@@ -422,6 +422,8 @@ S: final goal: match speech pattern/articulation/intonation/some other features
 
 S: voice breakdown
 
+[Approach For Mimicry and Breaking Down Voices by Jana](https://docs.google.com/document/d/1H49fFxiLw4C7OisG1yy0-9dQIH373UX0Il1ybV8Gju8)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Voice components

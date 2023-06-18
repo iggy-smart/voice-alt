@@ -424,6 +424,12 @@ S: voice breakdown
 
 [Approach For Mimicry and Breaking Down Voices by Jana](https://docs.google.com/document/d/1H49fFxiLw4C7OisG1yy0-9dQIH373UX0Il1ybV8Gju8)
 
+
+## Singing
+
+[Trans singers on reddit](https://www.reddit.com/r/transvoice/comments/ngwwae/any_transfemmtf_singers/)
+[small guide](https://www.reddit.com/r/transvoice/comments/n0mgy8/how_to_feminize_your_singing_voice_the_essentials/)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Voice components

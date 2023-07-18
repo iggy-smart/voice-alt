@@ -485,9 +485,14 @@ Creaky sound at lower boundary of vocal range.
 
 TODO TVL?
 
-Example: 
+https://www.youtube.com/watch?v=Q0yL2GezneU
 
+Example: 
 https://youtu.be/UsE5mysfZsY?t=18
+
+Joke:
+https://www.youtube.com/watch?v=rHHt-tYS2es
+
 
 ## Resonance
 Aka size of vocal tract/timbre/brightness.

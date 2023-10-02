@@ -815,6 +815,10 @@ They host voice lessons
 - [YT](https://www.youtube.com/@undeadvoicelab)
 - [IG](https://www.instagram.com/undead.voice/)
 
+### Zoey Alexandria: NatFem
+- [web](https://natfemvoice.com)
+- [YT](https://www.youtube.com/@ZoeyAlexandria)
+
 # Communities
 - reddit
 - reddit->discord
@@ -846,6 +850,10 @@ They host voice lessons
 2. Sumi's public workshop [with Martha](https://drive.google.com/drive/folders/1GK_BS-pSCiu90sTYHC7xLDyiEjtr4try)
 3. ///Advanced Resonance Event Recording  https://drive.google.com/drive/folders/1O_obQ2aCSqnmTUjW0fu7aetWxBR_3VDs?usp=sharing Note that this is only for people who are stuck, not a general method!
 
+# Extra:singing
+## Examples
+- [Rhye - The Fall (live)](https://youtu.be/gUvCkUi66VQ?si=MJZJTZTZe1W3LNUD&t=1191)
+- [Zoey Alexandria - Transgender Duet: Male And Female Voice](https://www.youtube.com/watch?v=MKyal_xzO0U)
 
 
 # Thanks

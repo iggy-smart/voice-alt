@@ -307,7 +307,7 @@ A:
 5) TVL: pitch
 6) Speak higher than F3, try don't cross F3 boundary
 
-M: You can fluently speak higher than F3 don't crossing F3. 
+M: You can fluently speak higher than F3 don't crossing F3 (E3) 
 
 It will be weird - it's ok. Your voice can be cartoonishnot and hollow.
 
@@ -406,9 +406,10 @@ TODO pitch/resonance conflation
 TODO muscles
 Check thyrohyoid muscles and [stylohyoid](https://www.physio-pedia.com/Stylohyoid) muscle. They both involved in swallowin process.
 Thyrohyoid muscles does the main job to raise larynx. Although stylohyoid muscle can help raise larynx much higher. [Relaxing stylohoid muscles](https://www.youtube.com/watch?v=OqsOOWihnsg) but we are going tighten them.
+TODO jaw tension on 's' sound (sss-aaaa-exhale, slow and quick)
 
 ## OPC
-[Stich voice breakdown by NY Vocal Coaching](https://www.youtube.com/watch?v=SuVe9dToYuQ)
+[Stich voice breakdown by NY Vocal Coaching](https://www.youtube.com/watch?v=SuVe9dToYuQ) - not the best breakdown in tech details
 
 ## Improvements
 Improvements and common mistakes
@@ -416,6 +417,9 @@ Improvements and common mistakes
 ### Bad lips habbits
 
 [Quick Voice Tips: Avoid Bad Lip Habits! by TVL](https://www.youtube.com/watch?v=gviIEbgvIbk)
+
+## Speak
+It is a key.
 
 ## Voice copying
 S: final goal: match speech pattern/articulation/intonation/some other features
@@ -425,10 +429,6 @@ S: voice breakdown
 [Approach For Mimicry and Breaking Down Voices by Jana](https://docs.google.com/document/d/1H49fFxiLw4C7OisG1yy0-9dQIH373UX0Il1ybV8Gju8)
 
 
-## Singing
-
-[Trans singers on reddit](https://www.reddit.com/r/transvoice/comments/ngwwae/any_transfemmtf_singers/)
-[small guide](https://www.reddit.com/r/transvoice/comments/n0mgy8/how_to_feminize_your_singing_voice_the_essentials/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -742,16 +742,18 @@ Quick ideas:
 ## Pitch low boundary creak
 
 # Teachers
-Lessons: Group vs individual, private and public.
+Lessons: Group vs individual, private and public (shadowing). Events
 
 ## How to select teacher
-Price/quality/comfortable
+Price/quality/comfortabilty/experience
 
 Find examples of lessons
 
-Time/timezone
+Available time/timezone
 
 Language
+
+Method of payment
 
 ## Where are they?
 
@@ -770,28 +772,31 @@ TODO price, key experience, teaching TZ, free events, examples/teaching style, t
 ### Vox Nova: Selene
 - [web](https://voxnovastudio.com/)
 - [Discord](https://discord.gg/WfKk3EMRk5) workshops/events. Really good introductinal events.
-- Singing
+- Extras: Singing
 
 ### Scientifically Augmented Voice: Savvy
 - [Discord](https://discord.gg/dbwrQMV) - recordings of public lessons and events
-- beatboxing 
+- Extras: Beatboxing 
 
-### Scinguistics
+### Scinguistics: Charles, AmaRose, Sweet_timbre 
 - [web](https://cramdvoicelessons.blog/)
 - [Discord](https://discord.gg/vFkYUdTPS4) - public events
+- Extras: Singing
 
 ### Sumian Voice: Sumi
 - [web](https://sumianvoice.com/)
 - [Discord](https://discord.gg/ahc5hb9zSk) - public lessons recordings
 - [wiki](https://wiki.sumianvoice.com/)
+- Extras: events
 
-## Possum studios: Jana
+## Possum studios: Jana (Sweet_timbre)
 - [Discord](https://discord.gg/MqEsRDA3QV)
 
 ### VRC Trans Academy
 They host voice lessons
 - [Discord](https://discord.gg/transacademy)
 - [YT](https://www.youtube.com/@transacademy/videos)
+- Extras: events (usually recorded and streamed)
 
 ### Fluid Voice Studio: Dusty
 - [web](https://www.fluidvoice.studio/)
@@ -830,7 +835,7 @@ They host voice lessons
 
 ## People who also 'can'
 - girl voice trolls on YouTube
-- singers (e.g. [Mike Milosh](https://youtu.be/gUvCkUi66VQ?t=1194) )
+- some singers (Mike Milosh, Dimash, Nick Petra, ...)
 
 # Guides
 ## Text guides
@@ -851,9 +856,16 @@ They host voice lessons
 3. ///Advanced Resonance Event Recording  https://drive.google.com/drive/folders/1O_obQ2aCSqnmTUjW0fu7aetWxBR_3VDs?usp=sharing Note that this is only for people who are stuck, not a general method!
 
 # Extra:singing
+## Guides
+- [small guide](https://www.reddit.com/r/transvoice/comments/n0mgy8/how_to_feminize_your_singing_voice_the_essentials/)
+- [M1/M2 and mixed voice by AmaRose](https://www.reddit.com/r/TransSinging/comments/lt6dnu/mixed_voice_in_transfeminine_singing_heres_what/)
+
 ## Examples
-- [Rhye - The Fall (live)](https://youtu.be/gUvCkUi66VQ?si=MJZJTZTZe1W3LNUD&t=1191)
+- [Rhye (Mike Milosh)- The Fall (live)](https://youtu.be/gUvCkUi66VQ&t=1191)
 - [Zoey Alexandria - Transgender Duet: Male And Female Voice](https://www.youtube.com/watch?v=MKyal_xzO0U)
+- [Nick Petra](https://www.youtube.com/watch?v=3vRHgxviZJk)
+- [Trans singers on reddit](https://www.reddit.com/r/transvoice/comments/ngwwae/any_transfemmtf_singers/)
+- [/r/TransSinging](https://www.reddit.com/r/TransSinging/)
 
 
 # Thanks

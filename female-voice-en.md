@@ -248,6 +248,9 @@ Renee - ?
 Notification based: YT, discord
 Competition/support based: friends who are on the same level
 
+## TODO: Another one motivation chapter
+If you feel you are on the same place or something you can't do or something doesn't match your expectations
+
 ## Finding Inspiration
 S: find fem voice you like.
 

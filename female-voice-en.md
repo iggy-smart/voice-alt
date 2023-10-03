@@ -745,7 +745,7 @@ Quick ideas:
 Lessons: Group vs individual, private and public (shadowing). Events
 
 ## How to select teacher
-Price/quality/comfortabilty/experience
+Price/quality/comfortabilty
 
 Find examples of lessons
 
@@ -754,6 +754,11 @@ Available time/timezone
 Language
 
 Method of payment
+
+Quality of lesson: sound, experience, deep understaning of tech details and how to teach
+
+## Typical lesson
+- preparation steps
 
 ## Where are they?
 

@@ -184,8 +184,9 @@ graph TD
 
 
 
-### mind map
-https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
+### more mind maps
+- https://map.sumianvoice.com/
+- https://www.mindmeister.com/map/2498331508?t=TtfllkiIdI
 
 ## What parameters we are going to control
 - Vocal pitch

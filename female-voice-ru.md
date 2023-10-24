@@ -29,3 +29,7 @@ SOVTE (Semi Occluded Vocal Tract Exercises)/Vocal Function exercises
 ## Larynx
 Гортань, глотка, адамово яблоко, кадык
 Adam's apple
+
+
+# Русскоязычные материалы
+[Как петь высокие ноты](https://www.youtube.com/watch?v=8Gn5b0ZZQXc)

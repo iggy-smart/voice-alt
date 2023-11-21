@@ -877,7 +877,8 @@ and addition [PSA: L's guide](https://www.reddit.com/r/transvoice/comments/15lyf
 - [Nick Petra](https://www.youtube.com/watch?v=3vRHgxviZJk)
 - [Trans singers on reddit](https://www.reddit.com/r/transvoice/comments/ngwwae/any_transfemmtf_singers/)
 - [/r/TransSinging](https://www.reddit.com/r/TransSinging/)
-
+- [Nat Puff: This Singer Can Use Her Entire Vocal Range, From High to Low](https://www.youtube.com/watch?v=RGK45K3KFIk)
+- [more from reddit](https://www.reddit.com/r/transvoice/comments/zb6dsi/comment/iyqfxhi/)
 
 # Thanks
 Zheanna/TVL

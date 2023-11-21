@@ -858,11 +858,13 @@ They host voice lessons
 [TVL Glossary](https://docs.google.com/document/d/1FPDd2YIkYFVjghNFifAy-PUl0IuyKeB4I8xKJWIXdjc)
 
 [Outdated L's](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
+and addition [PSA: L's guide](https://www.reddit.com/r/transvoice/comments/15lyf4q/psa_ls_guide/)
 
 ## Great prerecorded audio lessons/workshops
 1. I would recommend listen basic introduction lesson on 'Vox Nova' discord. It happens often and public availble.
 2. Sumi's public workshop [with Martha](https://drive.google.com/drive/folders/1GK_BS-pSCiu90sTYHC7xLDyiEjtr4try)
 3. ///Advanced Resonance Event Recording  https://drive.google.com/drive/folders/1O_obQ2aCSqnmTUjW0fu7aetWxBR_3VDs?usp=sharing Note that this is only for people who are stuck, not a general method!
+4. [An organized collection of Selene Da Silva's clips](https://www.reddit.com/r/transvoice/comments/ztdtll/an_organized_collection_of_selene_da_silvas_clips/)
 
 # Extra:singing
 ## Guides
@@ -883,5 +885,5 @@ Adi
 Savvy
 Sumi
 Selene
-CRAMD
+CRAMD (Charles)
 Zoey

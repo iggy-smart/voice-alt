@@ -878,6 +878,7 @@ and addition [PSA: L's guide](https://www.reddit.com/r/transvoice/comments/15lyf
 - [Trans singers on reddit](https://www.reddit.com/r/transvoice/comments/ngwwae/any_transfemmtf_singers/)
 - [/r/TransSinging](https://www.reddit.com/r/TransSinging/)
 - [Nat Puff: This Singer Can Use Her Entire Vocal Range, From High to Low](https://www.youtube.com/watch?v=RGK45K3KFIk)
+- [Bell Nuntita - Thailand's got talent - two voices](https://www.youtube.com/watch?v=J8UdcKfw528)
 - [more from reddit](https://www.reddit.com/r/transvoice/comments/zb6dsi/comment/iyqfxhi/)
 
 # Thanks
